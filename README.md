@@ -5,10 +5,11 @@ Oi oi, me chamo Derick! <br> Artista digital e Programador Front-end
 
 **Entre em Contato:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astolfinho/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derick-rufino/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derick10011@gmail.com)
+[![Email](https://img.shields.io/badge/-Socials-38A344?style=for-the-badge&logo=linktree&logoColor=white)](mailto:derick10011@gmail.com)
 ---
-## 🤖 Linguagens e Tecnologias
+## 👾 Linguagens e Tecnologias
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -18,3 +19,4 @@ Oi oi, me chamo Derick! <br> Artista digital e Programador Front-end
 
 ---
 ## 📊 Estatísticas
+![Status](/profile-3d-contrib\profile-night-green.svg)
