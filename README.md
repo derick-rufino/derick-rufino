@@ -7,7 +7,7 @@ Oi oi, me chamo Derick! <br> Artista digital e Programador Front-end
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derick-rufino/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derick10011@gmail.com)
-[![Email](https://img.shields.io/badge/-Socials-38A344?style=for-the-badge&logo=linktree&logoColor=white)](mailto:derick10011@gmail.com)
+[![Email](https://img.shields.io/badge/-Socials-38A344?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/derico_dev)
 ---
 ## 👾 Linguagens e Tecnologias
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
