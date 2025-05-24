@@ -19,4 +19,4 @@ Oi oi, me chamo Derick! <br> Artista digital e Programador Front-end
 
 ---
 ## 📊 Estatísticas
-![Status](/profile-3d-contrib\profile-night-green.svg)
+![Status](/profile-night-green.svg)
