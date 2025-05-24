@@ -1,16 +1,24 @@
-## Hi there 👋
+# 😌 Derick Rufino
+> "Movido pela curiosidade e autoexpressão 🎨💭💻
 
-<!--
-**derick-rufino/derick-rufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi oi, me chamo Derick! <br> Artista digital e Programador Front-end
 
-Here are some ideas to get you started:
+**Entre em Contato:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astolfinho/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astolfinho@gmail.com)
+---
+## 🤖 Linguagens e Tecnologias
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br/>
+
+---
+## 📊 Estatísticas
+
+
+<!-- | ![Astolfinho GitHub Stats](https://github-readme-stats.vercel.app/api?username=astolfinho-br&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=astolfinho-br&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| --- | --- | -->
