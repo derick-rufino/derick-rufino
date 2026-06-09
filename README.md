@@ -6,7 +6,7 @@
   <img alt="Derick Rufino — frontend developer" src="./assets/name-dark.svg" width="470" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <a href="https://linkedin.com/in/derick-rufino"><img src="https://skillicons.dev/icons?i=linkedin" height="34" /></a>
 &nbsp;
