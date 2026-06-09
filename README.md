@@ -43,16 +43,12 @@
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" align="center" /> <samp>contribuições em 3D</samp>
-
 <div align="center">
 
 <!-- Gerado pelo GitHub Action (.github/workflows/3d-contrib.yml). Aparece após o 1º run. -->
 <img src="./profile-3d-contrib/profile-night-green.svg" width="90%" />
 
 </div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" align="center" /> <samp>snake</samp>
 
 <div align="center">
 
@@ -61,17 +57,15 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" align="center" /> <samp>estatísticas</samp>
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=derick-rufino&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=63d6ff&icon_color=63d6ff&ring_color=63d6ff&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derick-rufino&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=63d6ff&text_color=c9d1d9" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derick-rufino&theme=transparent" />
 
 <br/><br/>
 
-<img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derick-rufino&theme=transparent&utcOffset=-3" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derick-rufino&theme=transparent" />
+&nbsp;
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derick-rufino&theme=transparent&utcOffset=-3" />
 
 </div>
 
