@@ -61,12 +61,6 @@
 
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derick-rufino&theme=transparent" />
 
-<br/><br/>
-
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derick-rufino&theme=transparent" />
-&nbsp;
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derick-rufino&theme=transparent&utcOffset=-3" />
-
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" align="center" /> <samp>stack</samp>
